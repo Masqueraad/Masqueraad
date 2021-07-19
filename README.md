@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Header
+![Header](https://github.com/Masqueraad/Masqueraad/blob/main/assets/image.png)
 
 About Me
 
