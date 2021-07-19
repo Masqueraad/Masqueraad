@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Header](https://github.com/Masqueraad/Masqueraad/blob/main/assets/new-img.gif)
 
 ### Skills
