@@ -1,4 +1,4 @@
-![Header](https://github.com/Masqueraad/Masqueraad/blob/main/assets/new-img.gif)
+![Header](https://github.com/Masqueraad/Masqueraad/blob/main/assets/new-gif.gif)
 
 ### Skills
 
