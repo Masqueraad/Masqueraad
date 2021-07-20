@@ -1,8 +1,12 @@
-![Header](https://github.com/Masqueraad/Masqueraad/blob/main/assets/new-gif.gif)
+![Header](https://github.com/Masqueraad/Masqueraad/blob/main/assets/new-gif1.gif)
 
 ### Skills
 
-<img src="https://img.shields.io/badge/-<HTML5>-090909?style=for-the-badge&logo=HTML5" ></img> <img src="https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3"></img> <img src="https://img.shields.io/badge/-JAVASRIPT-090909?style=for-the-badge&logo=JAVASCRIPT" ></img> <img src="https://img.shields.io/badge/-JQUERY-090909?style=for-the-badge&logo=JQUERY"></img> <img src="https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=BOOTSTRAP"></img>
+<a href="#"><img src="https://img.shields.io/badge/-<HTML5>-090909?style=for-the-badge&logo=HTML5" ></img></a>
+<a href="#"><img src="https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3"></img></a>
+<a href="#"><img src="https://img.shields.io/badge/-JAVASRIPT-090909?style=for-the-badge&logo=JAVASCRIPT" ></img></a>
+<a href="#"><img src="https://img.shields.io/badge/-JQUERY-090909?style=for-the-badge&logo=JQUERY"></img></a>
+<a href="#"><img src="https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=BOOTSTRAP"></img></a>
 
 ### Contact me
 
