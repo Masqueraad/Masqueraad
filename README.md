@@ -10,9 +10,9 @@
 
 ### Contact me
 
-<a href="https://www.instagram.com/konstiantynniziienko/" onclick="return ! window.open(this.href);">![iNSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-090909?style=for-the-badge&logo=INSTAGRAM)</a>
-<a href="https://www.linkedin.com/in/konstiantyn-niziienko-a624bb202/" onclick="return ! window.open(this.href);">![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-090909?style=for-the-badge&logo=LINKEDIN)</a>
-<a href="https://t.me/Masqueraad" onclick="return ! window.open(this.href);">![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=TELEGRAM)</a>
-<a href="https://www.facebook.com/profile.php?id=100006449645177" onclick="return ! window.open(this.href);">![FACEBOOK](https://img.shields.io/badge/-FACEBOOK-090909?style=for-the-badge&logo=FACEBOOK)</a>
+<a href="https://www.instagram.com/konstiantynniziienko/" target="_blank">![iNSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-090909?style=for-the-badge&logo=INSTAGRAM)</a>
+<a href="https://www.linkedin.com/in/konstiantyn-niziienko-a624bb202" target="_blank">![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-090909?style=for-the-badge&logo=LINKEDIN)</a>
+<a href="https://t.me/Masqueraad" target="_blank">![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=TELEGRAM)</a>
+<a href="https://www.facebook.com/profile.php?id=100006449645177" target="_blank">![FACEBOOK](https://img.shields.io/badge/-FACEBOOK-090909?style=for-the-badge&logo=FACEBOOK)</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masqueraad&count_private=true&show_icons=true&theme=dark)
