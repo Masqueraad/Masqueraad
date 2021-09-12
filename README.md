@@ -4,9 +4,11 @@
 
 <a href="#"><img src="https://img.shields.io/badge/-<HTML5>-090909?style=for-the-badge&logo=HTML5" ></img></a>
 <a href="#"><img src="https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3"></img></a>
+<a href="#"><img src="https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SASS" ></img></a>
 <a href="#"><img src="https://img.shields.io/badge/-JAVASRIPT-090909?style=for-the-badge&logo=JAVASCRIPT" ></img></a>
 <a href="#"><img src="https://img.shields.io/badge/-JQUERY-090909?style=for-the-badge&logo=JQUERY"></img></a>
 <a href="#"><img src="https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=BOOTSTRAP"></img></a>
+<a href="#"><img src="https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=GULP"></img></a>
 
 ### Contact me
 
